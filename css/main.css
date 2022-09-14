@@ -1,0 +1,23 @@
+.Left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.Right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Main{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+.body {
+    grid-template-columns: 1fr 2fr 1fr;
+}
